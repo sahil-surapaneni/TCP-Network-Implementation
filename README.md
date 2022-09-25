@@ -1,9 +1,6 @@
 # TCP-Network-Implementation
 Compsci 640 Final Project Implementation of TCP (Transmission Control Protocol)
 
-# TCP-Network-Implementation
-Compsci 640 Final Project Implementation of TCP (Transmission Control Protocol)
-
 ## Introduction
 The Transmission Control Protocol (TCP) standard is defined in the Request For Comment (RFC) standards document number 793 by the Internet Engineering Task Force (IETF). The original specification written in 1981 was based on earlier research and experimentation in the original ARPANET. The design of TCP was heavily influenced by what has come to be known as the “end-to-end argument.”
 
